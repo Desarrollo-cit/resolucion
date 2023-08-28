@@ -34,7 +34,7 @@
                         <ul class="dropdown-menu  dropdown-menu-dark "id="dropwdownRevision" style="margin: 0;">
                             <!-- <h6 class="dropdown-header">Información</h6> -->
                             <li>
-                                <a class="dropdown-item nav-link text-white " href="/resolucion/nueva"><i class="ms-lg-0 ms-2 bi bi-people me-2"></i>Usuarios</a>
+                                <a class="dropdown-item nav-link text-white " href="/resolucion/usuarios"><i class="ms-lg-0 ms-2 bi bi-people me-2"></i>Usuarios</a>
                                 <a class="dropdown-item nav-link text-white " href="/resolucion/nueva"><i class="ms-lg-0 ms-2 bi bi-graph-up me-2"></i>Estadisticas</a>
                             </li>
                         

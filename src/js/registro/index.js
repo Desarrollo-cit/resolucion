@@ -1,5 +1,6 @@
 const formulario = document.querySelector('form');
 import { Toast, validarFormulario } from './../funciones';
+import { Dropdown } from 'bootstrap';
 
 const registrar = async (e) => {
     e.preventDefault();
@@ -53,7 +54,6 @@ const registrar = async (e) => {
                 break;
         
             default:
-                alert('hola')
                 break;
         }
 
