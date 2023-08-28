@@ -1,3 +1,2 @@
-# BASE PARA PROYECTOS MVC
-Base para programación MVC con php
+# RESOLUCION EXAMEN PARCIAL
 Curso de ingenieria de software
