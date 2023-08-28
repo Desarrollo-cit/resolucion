@@ -19,6 +19,6 @@ class Usuario extends ActiveRecord{
         $this->usu_catalogo = $args['usu_catalogo'] ?? '';
         $this->usu_password = $args['usu_password'] ?? '';
         $this->usu_situacion = $args['usu_situacion'] ?? '1';
-        $this->usu_fecha_registro = $args['usu_fecha_registro'] ??  null;
+        $this->usu_fecha_registro = $args['usu_fecha_registro'] ??  date('Y-m-d H:i');
     }
 }
