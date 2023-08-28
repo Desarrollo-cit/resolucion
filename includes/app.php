@@ -4,7 +4,7 @@ use Model\ActiveRecord;
 
 
 require __DIR__ . '/../vendor/autoload.php';
-
+date_default_timezone_set('America/Guatemala');
 $dotenv = Dotenv::createImmutable(__DIR__);
 $dotenv->safeLoad();
 
